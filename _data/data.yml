@@ -19,7 +19,7 @@ sidebar:
   github: brightcoders
   gitlab: https://github.com/GerardoIbarra
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: "@BrightCoders"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -47,13 +47,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-  Hi, mi name is Luis i am 21 years old, Also i am a student of University of Colima,
-   I am scout and i try to be better programmer every day. 
+    Hi, mi name is Luis i am 21 years old, Also i am a student of University of Colima,
+    I am scout and i try to be better programmer every day.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Technical Programmer 
-    university: Colima University 
+  - degree: Technical Programmer
+    university: Colima University
     time: 2015 Aug - 2018 Jul
     details: |
 
@@ -61,7 +61,7 @@ educationcomplete:
     university: Colima Unersity
     time: 2018 - current
     details: |
-    
+
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: QA
@@ -71,17 +71,15 @@ experiences:
       During that time I was working as a QA providing quality monitoring and programming 
       in a new chat for student-teacher and student-student communication.
       In addition to small issues that asked us, in which js and css were handled.
-  
 
   - role: Program Marvel
     time: April 2021
-    company: Colima University 
+    company: Colima University
     details: |
       This page was created with react and how design used bootstrap for react.
       The Marvel characters were practically shown on the page with an image of them, 
       their heroes name, and a description to which they were shown from 10 to 10.
       The program is structed whit hooks, how useEffect or useState.
-
 
   - role: Page DAVE
     time: Sep 2020 - Nov 2020
@@ -90,7 +88,6 @@ experiences:
       This page was created for used in database, the page used delete, add, edit, and vie users.
       Users use login for that save in the database that created in MySQL
       This program was programing whit php, bulma, js.
-
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -111,7 +108,7 @@ skills:
     - name: Js/jQuery
       level: 40%
 
-    - name: C# 
+    - name: C#
       level: 40%
 
     - name: R
