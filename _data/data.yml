@@ -43,6 +43,12 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    - item: Conflict Resolution
+      link: # dejar en blanco
+
+    - item: Creative Thinking
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
@@ -59,7 +65,7 @@ educationcomplete:
 
   - degree: Telematics Engineering
     university: Colima Unersity
-    time: 2018 - current
+    time: 2018 - Current
     details: |
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
